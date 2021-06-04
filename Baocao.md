@@ -26,5 +26,5 @@ Cách thức xây dựng bộ dữ liệu:
 *![187529955_320378539584060_4500346516519094400_n](https://user-images.githubusercontent.com/64973267/120692734-5dc06c00-c4d2-11eb-8cf2-9e28bb5c327e.png)
 ![190801246_125812539562700_1721751272422692417_n](https://user-images.githubusercontent.com/64973267/120692742-6022c600-c4d2-11eb-9d52-860920e94389.png)
 ![7 35](https://user-images.githubusercontent.com/64973267/120728621-8c0c6e80-c507-11eb-889b-e04ac63aa74b.png)
-![000061](https://user-images.githubusercontent.com/64973267/120728531-55ceef00-c507-11eb-99d5-59400d6ae9e6.jpg)
+
 
