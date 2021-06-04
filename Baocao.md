@@ -15,6 +15,7 @@ Cách thức xây dựng bộ dữ liệu:
 (Nguồn: http://giaothong.hochiminhcity.gov.vn/map.aspx)
 * Sử dụng labelMe để gán nhãn, bài toán gồm 5 class chính là: xe đạp, xe máy, xe oto, xe tải, xe buýt, xe khách.
 * Bộ dữ liệu là hình ảnh giao thông tại các khu vực trong thành phố Hồ Chí Minh, được quay từ trên cao, số lượng ảnh được raw dự kiến tầm 1500 - 2000 ảnh.
+* Bộ dữ liệu chia 70% train, 20 %val. 10% test
 ## 3.Mô tả về đặc trưng
 * Dữ liệu có góc quay, thời gian ban ngày, ban đêm, ánh sáng, mật độ giao thông đa dạng. 
 * Ảnh được raw về có kích thước, độ phân giải, chất lượng ảnh không cố định đa dạng tùy vào camera mỗi địa điểm, đây cũng là một thách thức khi phải xử lý như nào để đảm bảo thông tin không bị mất mát nhiều.
